@@ -1,5 +1,9 @@
 # SQL-Data-Cleaning-Data-Exploration---Fasoos-Roll-Metrics
 
+**Fasoos**
+
+Faasos is an Indian "food on demand" service that was incorporated in 2004. It is one of the brands owned by the online restaurant company, Rebel Foods. In this project, I have created a databse for Fasoos and analyzed few of the metrices mentioned below to take imporatant business decisons. Please have a look and let me know of your suggestions or comments if any.
+
 **Created a database for Fasoos.**
 pgAdmnin-->server-->right click-->create database--> name the database
 
